@@ -10,7 +10,7 @@ Open data provided by **StatsBomb**. Following the [Github repository](https://g
 
 Through the **mpl soccer** package, it has been possible to split the football pitch by enhancing the half spaces zones.
 
-For a deeper analysis, please consider my post here: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Johan Cruyff's Analysis] https://www.linkedin.com/posts/marco-monini-4b200215a_opendata-juegopositional-halfspaces-activity-7089932304533381120-0HP8?utm_source=share&utm_medium=member_desktop) 
+For a deeper analysis, please consider my post here: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Johan Cruyff's Analysis] (https://www.linkedin.com/posts/marco-monini-4b200215a_opendata-juegopositional-halfspaces-activity-7089932304533381120-0HP8?utm_source=share&utm_medium=member_desktop) 
 
 ## Author
 Marco Monini 2023
